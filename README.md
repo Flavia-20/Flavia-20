@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning Python on a Computer Science course. 
 - 📫 How to reach me? You can reach me on Instagram @flávia_monique_bispo
 
-![Snake animation](https://raw.githubusercontent.com/Flavia-20/Flavia-20/output/github-contribution-grid-snake-dark.svg)
-
-
 ## I've already used ...
 
 <div>
@@ -32,4 +29,7 @@
 [![Flavia GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia-20&theme=github_dark)](https://github.com/Flavia-20#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia-20&layout=compact&langs_count=8&theme=github_light)](https://github.com/Flavia-20#gh-light-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia-20&layout=compact&langs_count=8&theme=github_dark)](https://github.com/Flavia-20#gh-dark-mode-only)
+
+##Commits 
+![Snake animation](https://raw.githubusercontent.com/Flavia-20/Flavia-20/output/github-contribution-grid-snake-dark.svg)
 
