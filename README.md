@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Flávia
 - 👀 I’m interested in learning new programming languages
 - 🌱 I’m currently learning Python on a Computer Science course. 
-- 📫 How to reach me? You can reach me on Instagram @flávia_monique_bispo
 
 ## I've already used ...
 
@@ -23,13 +22,18 @@
 </div>
 
 
-## My Stats
+## 🤓 My Stats
 
 [![Flavia GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia-20&theme=github_light)](https://github.com/Flavia-20#gh-light-mode-only)
 [![Flavia GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia-20&theme=github_dark)](https://github.com/Flavia-20#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia-20&layout=compact&langs_count=8&theme=github_light)](https://github.com/Flavia-20#gh-light-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flavia-20&layout=compact&langs_count=8&theme=github_dark)](https://github.com/Flavia-20#gh-dark-mode-only)
+![Top Languages](https://github-readme-streak-stats.herokuapp.com/?user=Flavia-20&theme=onedark)
 
-## Commits 
+## 💻 Commits 
 ![Snake animation](https://raw.githubusercontent.com/Flavia-20/Flavia-20/output/github-contribution-grid-snake-dark.svg)
+
+## 📫 How to reach me? 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](flaviamvbispo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/fl%C3%A1via-monique-bispo-vieira-51b890278/)
 
