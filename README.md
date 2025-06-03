@@ -38,4 +38,5 @@
 ## 📫 How to reach me? 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](flaviamvbispo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/fl%C3%A1via-monique-bispo-vieira-51b890278/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0A66C2?logo=kaggle&logoColor=fff&style=for-the-badge)](https://www.kaggle.com/flaviamonique)
 
