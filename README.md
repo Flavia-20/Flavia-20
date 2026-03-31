@@ -21,6 +21,7 @@
 <div>
   <h3>Ciência de Dados</h3>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
+  <img src="https://img.shields.io/badge/r-007ACC?style=for-the-badge&logo=r&logoColor=green" alt="R" height="30px">
 </div>
 
 
