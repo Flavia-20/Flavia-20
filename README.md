@@ -19,9 +19,14 @@
    <img src="https://img.shields.io/badge/Node.js-009000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30px">
 </div>
 <div>
+  <h3>Mobile</h3>
+  <img src="https://img.shields.io/badge/Flutter-99FFFF?style=for-the-badge&logo=flutter&logoColor=blue" alt="Python" height="30px">
+</div>
+<div>
   <h3>Ciência de Dados</h3>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
   <img src="https://img.shields.io/badge/r-007ACC?style=for-the-badge&logo=r&logoColor=green" alt="R" height="30px">
+   <img src="https://img.shields.io/badge/Pyspark-FF0000?style=for-the-badge&logo=pyspark&logoColor=red" alt="PySpark" height="30px">
 </div>
 
 
