@@ -27,7 +27,9 @@
   <h3>Ciência de Dados</h3>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
   <img src="https://img.shields.io/badge/r-007ACC?style=for-the-badge&logo=r&logoColor=green" alt="R" height="30px">
-   <img src="https://img.shields.io/badge/Pyspark-FF0000?style=for-the-badge&logo=pyspark&logoColor=red" alt="PySpark" height="30px">
+  <img src="https://img.shields.io/badge/Pyspark-FF0D00?style=for-the-badge&logo=pyspark&logoColor=white" alt="PySpark" height="30px">
+  <img src="https://img.shields.io/badge/Pandas-F7FF1E?style=for-the-badge&logo=pandas&logoColor=orange" alt="Pandas" height="30px">
+</div>
 </div>
 
 
