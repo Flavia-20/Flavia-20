@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/Firebase-FF9F3E?style=for-the-badge&logo=firebase&logoColor=brown" alt="Firebase" height="30px">
 </div>
 <div>
+  <h3>Coleta de dados</h3>
+   <img src="https://img.shields.io/badge/Beautifulsoup-99FCDF?style=for-the-badge&logo=beautifulsoup&logoColor=blue" alt="Beautifulsoup" height="30px">
+   <img src="https://img.shields.io/badge/Selenium-99FFCC?style=for-the-badge&logo=selenium&logoColor=blue" alt="selenium" height="30px">
+  
+</div>
+<div>
   <h3>Ciência de Dados</h3>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30px">
   <img src="https://img.shields.io/badge/r-007ACC?style=for-the-badge&logo=r&logoColor=green" alt="R" height="30px">
