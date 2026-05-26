@@ -28,7 +28,6 @@
   <h3>Coleta de dados</h3>
    <img src="https://img.shields.io/badge/Beautifulsoup-99FCDF?style=for-the-badge&logo=beautifulsoup&logoColor=blue" alt="Beautifulsoup" height="30px">
    <img src="https://img.shields.io/badge/Selenium-99FFCC?style=for-the-badge&logo=selenium&logoColor=blue" alt="selenium" height="30px">
-  
 </div>
 <div>
   <h3>Ciência de Dados</h3>
@@ -37,7 +36,12 @@
   <img src="https://img.shields.io/badge/Pyspark-FD0FFD?style=for-the-badge&logo=pyspark&logoColor=white" alt="PySpark" height="30px">
   <img src="https://img.shields.io/badge/Pandas-F7FF1E?style=for-the-badge&logo=pandas&logoColor=orange" alt="Pandas" height="30px">
   <img src="https://img.shields.io/badge/Databrics-FF0D00?style=for-the-badge&logo=databrics&logoColor=violet" alt="Databrics" height="30px">
+  <img src="https://img.shields.io/badge/streamlit-CC3300?style=for-the-badge&logo=streamlit&logoColor=violet" alt="streamlit" height="30px">
 </div>
+
+<div>
+  <h3>AI</h3>
+  <img src="https://img.shields.io/badge/LangChain-EEFD00?style=for-the-badge&logo=langchain&logoColor=violet" alt="LangChain" height="30px">
 </div>
 
 
