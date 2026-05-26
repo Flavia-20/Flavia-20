@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Flávia
-- 👀 I’m interested in learning new programming languages
-- 🌱 I’m currently learning Python on a Computer Science course. 
+- 🌱 I’mma Data Scientist, turning data into money (and not even to me ;) )
 
 ## I've already used ...
 
